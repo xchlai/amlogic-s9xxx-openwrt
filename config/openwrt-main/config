@@ -7800,3 +7800,9 @@ CONFIG_PACKAGE_whereis=y
 # CONFIG_PACKAGE_fontconfig is not set
 # end of Font-Utils
 # end of Xorg
+
+# Openclash
+CONFIG_PACKAGE_openclash=y
+
+# Amlogic
+CONFIG_PACKAGE_luci-app-amlogic=y
